@@ -42,3 +42,6 @@ _ngo/
 _xmsgs/
 xlnx_auto_0_xdb/
 xst/
+*.log
+*.html
+*.xreport

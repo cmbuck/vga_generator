@@ -7,11 +7,11 @@
 -- \   \   \/     Version : 14.7
 --  \   \         Application : xaw2vhdl
 --  /   /         Filename : dcm_32_to_50p35.vhd
--- /___/   /\     Timestamp : 07/17/2014 14:47:39
+-- /___/   /\     Timestamp : 07/17/2014 14:48:00
 -- \   \  /  \ 
 --  \___\/\___\ 
 --
---Command: xaw2vhdl-st C:/Users/Chris/workspace/vga_generator/vga_background/ipcore_dir/dcm_32_to_50p35.xaw C:/Users/Chris/workspace/vga_generator/vga_background/ipcore_dir/dcm_32_to_50p35
+--Command: xaw2vhdl-intstyle C:/Users/Chris/workspace/vga_generator/vga_background/ipcore_dir/dcm_32_to_50p35.xaw -st dcm_32_to_50p35.vhd
 --Design Name: dcm_32_to_50p35
 --Device: xc3s500e-4vq100
 --
