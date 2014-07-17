@@ -125,11 +125,11 @@
       <outfile xil_pn:name="webtalk_pn.xml"/>
       <outfile xil_pn:name="xst"/>
     </transform>
-    <transform xil_pn:end_ts="1405626509" xil_pn:in_ck="-4480321233387866732" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-2198277605292318083" xil_pn:start_ts="1405626508">
+    <transform xil_pn:end_ts="1405627868" xil_pn:in_ck="-4480321233387866732" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-2198277605292318083" xil_pn:start_ts="1405627868">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1405626526" xil_pn:in_ck="-8506570077816920450" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1154605648631625517" xil_pn:start_ts="1405626509">
+    <transform xil_pn:end_ts="1405627877" xil_pn:in_ck="-8506570077816920450" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1154605648631625517" xil_pn:start_ts="1405627868">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_ngo"/>
@@ -138,7 +138,7 @@
       <outfile xil_pn:name="vga_generator.ngd"/>
       <outfile xil_pn:name="vga_generator_ngdbuild.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1405626546" xil_pn:in_ck="-8506570077816920449" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1697458369411087007" xil_pn:start_ts="1405626526">
+    <transform xil_pn:end_ts="1405627887" xil_pn:in_ck="-8506570077816920449" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1697458369411087007" xil_pn:start_ts="1405627877">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
@@ -151,7 +151,7 @@
       <outfile xil_pn:name="vga_generator_summary.xml"/>
       <outfile xil_pn:name="vga_generator_usage.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1405626596" xil_pn:in_ck="-1587710501153710824" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1405626546">
+    <transform xil_pn:end_ts="1405627903" xil_pn:in_ck="-1587710501153710824" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1405627887">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
@@ -165,7 +165,7 @@
       <outfile xil_pn:name="vga_generator_pad.txt"/>
       <outfile xil_pn:name="vga_generator_par.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1405626632" xil_pn:in_ck="2081850255234455015" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1405626597">
+    <transform xil_pn:end_ts="1405627924" xil_pn:in_ck="2081850255234455015" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1405627910">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
@@ -177,7 +177,7 @@
       <outfile xil_pn:name="webtalk.log"/>
       <outfile xil_pn:name="webtalk_pn.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1405626596" xil_pn:in_ck="-8506570077816920581" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1405626582">
+    <transform xil_pn:end_ts="1405627903" xil_pn:in_ck="-8506570077816920581" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1405627899">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
